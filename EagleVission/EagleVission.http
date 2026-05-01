@@ -1,0 +1,6 @@
+@EagleVission_HostAddress = http://localhost:5286
+
+GET {{EagleVission_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
